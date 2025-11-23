@@ -29,7 +29,7 @@ mini-rtos/ │── src/ │ ├── rtos.c # Core RTOS kernel │ ├── 
 
 ### Build & Run
 # Clone the repo
-
+https://github.com/vignesh-04rep/C_projects
 cd mini-rtos
 
 # Compile (example with GCC)
