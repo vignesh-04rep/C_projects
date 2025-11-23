@@ -29,7 +29,7 @@ mini-rtos/ │── src/ │ ├── rtos.c # Core RTOS kernel │ ├── 
 
 ### Build & Run
 # Clone the repo
-git clone https://github.com/your-username/mini-rtos.git
+
 cd mini-rtos
 
 # Compile (example with GCC)
