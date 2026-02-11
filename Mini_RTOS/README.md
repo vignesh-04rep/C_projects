@@ -14,13 +14,6 @@ This project implements a **Mini Real-Time Operating System (RTOS)** in C, desig
 - ⚡ Lightweight kernel for small MCUs
 
 ---
-
-## 🔹 Project Structure
-mini-rtos/ │── src/ │ ├── rtos.c # Core RTOS kernel │ ├── scheduler.c # Task scheduling logic │ ├── tasks.c # Example user tasks │ └── main.c # Entry point │ │── include/ │ ├── rtos.h # Kernel API definitions │ ├── scheduler.h # Scheduler interface │ └── tasks.h # Task prototypes │ │── docs/ │ └── README.md # Project documentation
-
-
----
-
 ## 🔹 Getting Started
 
 ### Prerequisites
