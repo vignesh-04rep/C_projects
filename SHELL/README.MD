@@ -18,8 +18,8 @@ A simple custom shell written in **C** that provides a command-line interface wi
    ```bash
    gcc SHELL.c -o myshell
 
-2.**RUN THE SHELL
-```bash
+2.**RUN THE SHELL**
+   ```bash
   ./myshell
 
 3.INTERACT WITH THE SHELL
