@@ -25,11 +25,11 @@ This project implements a **Mini Real-Time Operating System (RTOS)** in C, desig
 https://github.com/vignesh-04rep/C_projects
 cd mini-rtos
 
-# Compile (example with GCC)
-gcc src/*.c -Iinclude -o mini-rtos
+# Compile 
+make makefile
 
 # Run (simulation or hardware)
-./mini-rtos
+./outfile
 
 🔹 License
 Released under the MIT License. Free to use, modify, and share.
