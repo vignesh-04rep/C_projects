@@ -21,7 +21,7 @@ A simple custom shell written in **C** that provides a command-line interface wi
 2.**RUN THE SHELL**
    ```bash
   ./myshell
-
+   ```bash
 3.INTERACT WITH THE SHELL
 -Type commands like ls, pwd, or gcc file.c o file to execute them.
 -Use cd <directory> to change directories.
